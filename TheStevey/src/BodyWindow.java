@@ -76,13 +76,13 @@ public class BodyWindow {
 				GameMain newWindow = new GameMain();
 				
 				 String ans1 = textField.getText(),
-						 	ans2 = textField_1.getText(),
-						    ans3 = textField_2.getText(),
-						    ans4 = textField_3.getText(),
-						    ans5 = textField_4.getText(),
-						    ans6 = textField_5.getText(),
-					        ans7 = textField_6.getText(),
-				            ans8 = textField_7.getText();
+					ans2 = textField_1.getText(),
+					ans3 = textField_2.getText(),
+					ans4 = textField_3.getText(),
+					ans5 = textField_4.getText(),
+					ans6 = textField_5.getText(),
+					ans7 = textField_6.getText(),
+				        ans8 = textField_7.getText();
 					 
 				String[] answers = {ans1, ans2, ans3, ans4, ans5, ans6, ans7, ans8};
 				
